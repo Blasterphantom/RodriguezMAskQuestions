@@ -8,4 +8,4 @@
 
 
 Peer review by Daniel Decoiito
-  the app itself works but ther are issues. There are a couple of variables that are stated but never use. Also the mechanisim to replay the game is a bit faulty, if you type in anything other then yes the game will end. You have a no option but it is irellevant. I like the use of interplotion and breaks within the string text.
+  the app itself works but theer are issues. There are a couple of variables that are stated but never used. Also the mechanisim to replay the game is a bit faulty, if you type in anything other then "yes" the game will end. You have a "no" option but it is irellevant. I like the use of interplotion and breaks within the string text.
