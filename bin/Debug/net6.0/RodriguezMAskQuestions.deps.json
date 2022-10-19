@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RodriguezMAskQuestions/1.0.0": {
+        "runtime": {
+          "RodriguezMAskQuestions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RodriguezMAskQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

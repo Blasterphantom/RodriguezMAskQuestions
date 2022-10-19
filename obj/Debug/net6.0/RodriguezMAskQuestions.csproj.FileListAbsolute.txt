@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/bin/Debug/net6.0/RodriguezMAskQuestions
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/bin/Debug/net6.0/RodriguezMAskQuestions.deps.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/bin/Debug/net6.0/RodriguezMAskQuestions.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/bin/Debug/net6.0/RodriguezMAskQuestions.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/bin/Debug/net6.0/RodriguezMAskQuestions.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/refint/RodriguezMAskQuestions.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/RodriguezMAskQuestions.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAskQuestions/obj/Debug/net6.0/ref/RodriguezMAskQuestions.dll
